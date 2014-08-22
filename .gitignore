@@ -1,0 +1,7 @@
+bin/
+*.dll
+*.pdb
+obj/
+*.exe
+Thumbs.db
+
